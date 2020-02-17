@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "BurnApp",
+    "slug": "BurnApp",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "icon": "./assets/images/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.smartido.burnapp"
+    },
+    "android": {
+      "package": "com.smartido.burnapp"
+    }
+  }
+}
